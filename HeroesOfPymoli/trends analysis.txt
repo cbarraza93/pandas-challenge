@@ -1,0 +1,4 @@
+#There is a higher percentage of Male players than there are female or other players.
+#The majority of players are within the age range of 15-29, with the biggest group being between 20-24 years old.
+#Ages 20-24 have the highest volume of players and purchases, however, players ages 35-39 tend to spend more money on games.
+#Two of the most sold items are also the most profitable ('Final Critic' and 'Oathbreaker, Last Hope of the Breaking Storm')
